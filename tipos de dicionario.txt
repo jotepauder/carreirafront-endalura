@@ -1,0 +1,25 @@
+abcde
+
+binário 01
+
+numérico 0123456
+
+hexadecimal 0123456789ABCDEF 
+
+RGB = Red Green Blue 
+
+# _ _red _ _green _ _blue
+
+0 = ausência
+
+F = Máximo
+
+#000000 -> Preto 
+
+#FFFFFF -> Branco 
+
+#FF0000 -> Vermelho 
+
+RGG 0,1,2,3....255
+
+0 = ausência

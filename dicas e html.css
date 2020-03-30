@@ -1,0 +1,39 @@
+/* Declarando uma classe no CSS 
+.teste {
+
+}
+/*
+/* Declarando um identificador no CSS 
+ p.teste {
+
+ } 
+/*
+
+*/ Declarando o identificador no CSS
+
+#teste {
+
+}
+/*
+
+/* Use o ! e ele vai criar a estrutura básica de um documento HTML */ 
+
+
+/* Seletores CSS, CSS avançado */
+/* main > p {
+    background: red;
+
+}
+
+img + p {
+background: blue;
+
+}
+
+img ~ p {
+    background: yellow;
+}
+
+.principal p:not(#missao) {
+    background: orange;
+}
